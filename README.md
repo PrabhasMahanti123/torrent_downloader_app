@@ -46,7 +46,7 @@ graph TD;
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/PrabhasMahanti123/torrent_downloader_app.git
    cd torrent_downloader_app
    ```
 2. **Install dependencies:**
