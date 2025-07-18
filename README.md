@@ -91,7 +91,4 @@ graph TD;
 - Suitable for smaller torrents (< 100MB recommended)
 - Files expire after 24 hours
 - Processing happens synchronously during the API call
-
-## License
-
-MIT # torrent_downloader_app
+ 
